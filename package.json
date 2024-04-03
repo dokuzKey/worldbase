@@ -1,5 +1,5 @@
 {
-    "name": "wordbase",
+    "name": "worldbase",
     "version": "0.9.0",
     "description": "JSON and YAML database module with ease of use.",
     "main": "index.js",
@@ -13,7 +13,7 @@
     "types": "types/index.d.ts",
     "keywords": [
         "database",
-        "wordbase",
+        "worldbase",
         "json",
         "yaml"
     ],
@@ -21,7 +21,7 @@
     "license": "GNUv3",
     "repository": {
         "type": "git",
-        "url": "https://github.com/islemci/wordbase"
+        "url": "https://github.com/islemci/worldbase.git"
     },
     "dependencies": {
         "lodash": "^4.17.21",

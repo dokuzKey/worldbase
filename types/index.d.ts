@@ -1,4 +1,4 @@
-declare module "wordbase" {
+declare module "worldbase" {
     export class JsonDatabase<V> {
         private cache: { [key: string]: V };
         public path: string;
