@@ -1,6 +1,6 @@
 {
     "name": "wordbase",
-    "version": "0.9",
+    "version": "0.9.0",
     "description": "JSON and YAML database module with ease of use.",
     "main": "index.js",
     "directories": {
