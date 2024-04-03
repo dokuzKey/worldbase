@@ -1,6 +1,6 @@
 {
     "name": "worldbase",
-    "version": "0.9.0",
+    "version": "0.9.1",
     "description": "JSON and YAML database module with ease of use.",
     "main": "index.js",
     "directories": {
