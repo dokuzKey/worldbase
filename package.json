@@ -18,7 +18,7 @@
         "yaml"
     ],
     "author": "islemci",
-    "license": "Apache-2.0",
+    "license": "GNUv3",
     "repository": {
         "type": "git",
         "url": "https://github.com/islemci/wordbase"
